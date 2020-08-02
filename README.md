@@ -1,5 +1,5 @@
 # iris-rf-api
-## My first Machine Learning Deploy using Docker
+## Sample of Machine Learning Deploy using Docker
 
 **iris-rf-api** is a Random Forests model using Iris Dataset that I deployed using Flask to create an API, Flasgger to create an easy UI interface, pickle that I used to save model in binary format and Docker that I used to deploy this project.
 
